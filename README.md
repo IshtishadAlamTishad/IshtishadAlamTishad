@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Competitive Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshtishadAlamTishad&label=Profile%20views&color=0e75b6&style=flat" alt="IshtishadAlamTishad" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 - 👯 My Projects : [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE) 
 [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
