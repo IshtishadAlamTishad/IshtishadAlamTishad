@@ -5,7 +5,8 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
-- 👯 My Projects : [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE) [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
+- 👯 My Projects : [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE) 
+[Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
 - 👨‍💻 All of my projects are available at [https://github.com/IshtishadAlamTishad](https://github.com/IshtishadAlamTishad)
 - 📝 My working Operating Systems [Linux, Kali-Linux, Windows, Mac, Tiny](Linux, Kali-Linux, Windows, Mac, Tiny)
 - 💬 Ask me about **tishadalam86@gmail.com**
