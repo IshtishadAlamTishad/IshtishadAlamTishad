@@ -8,7 +8,7 @@
 - 👯 My Projects : [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE) 
 [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
 - 👨‍💻 All of my projects are available at [https://github.com/IshtishadAlamTishad](https://github.com/IshtishadAlamTishad)
-- 📝 My working Operating Systems [Linux, Kali-Linux, Windows, Mac, Tiny](Linux, Kali-Linux, Windows, Mac, Tiny)
+- 📝 My working Operating Systems [Linux](Linux),[Kali-Linux](Kali-Linux),[Windows](Windows),[Mac](Mac),[Tiny](Tiny)
 - 💬 Ask me about **tishadalam86@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/tishad07/](https://www.linkedin.com/in/tishad07/)
 - ⚡ Fun fact **3 a.m. codes are smoother than ice-cream**
