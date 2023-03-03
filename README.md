@@ -1,6 +1,14 @@
 ![logo](https://github.com/IshtishadAlamTishad/IshtishadAlamTishad/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammed Ishtishad Alam Tishad</h1>
 <h3 align="center">A passionate Competitive Programmer</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
+
+- 👯 My Projects : [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE) [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
+- 👨‍💻 All of my projects are available at [https://github.com/IshtishadAlamTishad](https://github.com/IshtishadAlamTishad)
+- 📝 My working Operating Systems [Linux, Kali-Linux, Windows, Mac, Tiny](Linux, Kali-Linux, Windows, Mac, Tiny)
+- 💬 Ask me about **tishadalam86@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/tishad07/](https://www.linkedin.com/in/tishad07/)
+- ⚡ Fun fact **3 a.m. codes are smoother than ice-cream**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,13 +30,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishtishadalamtishad&" alt="ishtishadalamtishad" /></p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
-<detail>
-- 👯 My Projects : [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE) [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
-- 👨‍💻 All of my projects are available at [https://github.com/IshtishadAlamTishad](https://github.com/IshtishadAlamTishad)
-- 📝 My working Operating Systems [Linux, Kali-Linux, Windows, Mac, Tiny](Linux, Kali-Linux, Windows, Mac, Tiny)
-- 💬 Ask me about **tishadalam86@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/tishad07/](https://www.linkedin.com/in/tishad07/)
-- ⚡ Fun fact **3 a.m. codes are smoother than ice-cream**
-</detail>
+
+<n> </n>
+
+
+
