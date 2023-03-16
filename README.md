@@ -20,6 +20,11 @@
 <a href="https://stackoverflow.com/users/19823298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19823298" height="30" width="40" /></a>
 <a href="https://fb.com/tishad07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tishad07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/darpa_seven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darpa_seven" height="30" width="40" /></a>
+
+</p>
+
+<h3 align="left">Competitive programming Platforms:</h3>
+<p align="left">
 <a href="https://codeforces.com/profile/tishad07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tishad07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tishadalam07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tishadalam07" height="30" width="40" /></a>
 </p>
