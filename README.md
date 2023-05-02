@@ -1,7 +1,7 @@
 ![ProfilePicture](https://github.com/IshtishadAlamTishad/IshtishadAlamTishad/blob/main/Banner.png)
 
 <h1 align="center">Hello, I'm Mohammed Istishad Alam Tishad</h1>
-<h3 align="center">A passionate Competitive Programmer also passionate about building elegant and efficient software solutions/Problems Solving that make people's lives easier. Experienced in Software Development using technologies such as C++, JAVA, ,Python, Oracle-MySQL and frontend web development such as HTML and JavaScript. Strong advocate for open-source software and enjoys contributing to community-driven projects. Also loves writing tech articles and sharing knowledge with others.</h3>
+<h3 align="center">A passionate Competitive Programmer also passionate about building elegant and efficient software solutions/Problems Solving that make people's lives easier. Experienced in Software Development using technologies such as C++, JAVA, ,Python, Oracle-MySQL and frontend web development such as HTML and JavaScript and for civil/architecture/2D/3D design such as AutoCad/AutoCad 2007. Strong advocate for open-source software and enjoys contributing to community-driven projects. Also loves writing tech articles and sharing knowledge with others.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshtishadAlamTishad&label=Profile%20views&color=0e75b6&style=flat" alt="IshtishadAlamTishad" /> </p>
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
