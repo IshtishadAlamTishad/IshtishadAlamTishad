@@ -37,3 +37,6 @@
 <p><img align="left" src="https://github-readme-stats-ishtishadalamtishad.vercel.app/api/top-langs?username=ishtishadalamtishad&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ishtishadalamtishad" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-ishtishadalamtishad.vercel.app/api?username=ishtishadalamtishad&show_icons=true&locale=en&theme=radical" alt="ishtishadalamtishad" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishtishadalamtishad&theme=radical" alt="ishtishadalamtishad" /></p>
+<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=ishtishadalamtishad&theme=react-dark&count_private=true&area=true&hide_border=false)">
+
+
