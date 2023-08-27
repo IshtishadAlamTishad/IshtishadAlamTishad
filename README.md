@@ -10,7 +10,7 @@
 [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
 - 👨‍💻 All of my projects are available at [Click Here](https://github.com/IshtishadAlamTishad)
 - 🖥️ My working Operating Systems -> [Linux](Linux),[Kali-Linux](Kali-Linux),[Fedora-Linux](Fedora-Linux),[Windows](Windows),[Mac](Mac)
-- 🏅 Certificates -> [IT ESSENTIALS](https://drive.google.com/file/d/1-qbO-8oO891S6kSmFWCbHBokhU0W6v6F/view?usp=sharing),[Ethical Hacking](https://drive.google.com/file/d/1EyTqrT3V348A893hEjG-OxMloCB3ygLJ/view?usp=drivesdk),[Fedora Linux](https://drive.google.com/file/d/1VOXsVBbGhWbjOuTA1hVRhEGawPIB-dkr/view?usp=drivesdk)
+- 🏅 Certificates -> [MACHINE LEARNING](https://drive.google.com/file/d/16h3EBCnmH5juZjL8fYcyU6tk0S4DMEkN/view?usp=drive_link),[IT ESSENTIALS](https://drive.google.com/file/d/1-qbO-8oO891S6kSmFWCbHBokhU0W6v6F/view?usp=sharing),[Ethical Hacking](https://drive.google.com/file/d/1EyTqrT3V348A893hEjG-OxMloCB3ygLJ/view?usp=drivesdk),[Fedora Linux](https://drive.google.com/file/d/1VOXsVBbGhWbjOuTA1hVRhEGawPIB-dkr/view?usp=drivesdk)
 - 🏆 Honor/Award : Dean's Honor Award for excellent academic performance
 - 💬 Ask me about **tishadalam86@gmail.com**
 - 📄 Know about my experiences -> [Click Here](https://www.linkedin.com/in/tishad07/)
