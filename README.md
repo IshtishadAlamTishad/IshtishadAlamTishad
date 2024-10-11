@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
-- 👯 My Projects -> [AI Driven Transformation of Electricity Supply](https://github.com/IshtishadAlamTishad/Software-Engineering), [Apartment Type Detection] (https://github.com/IshtishadAlamTishad/Apartment-Type-Detection) ,[AutoDoc Hospital Management System](https://youtu.be/6YstV3XasoQ?si=I-gZWVKXuHFBsGyo) , [SafetyFirst Road System](https://www.youtube.com/watch?v=9k__11e2oLk) ,
+- 👯 My Projects -> [AI Driven Transformation of Electricity Supply](https://github.com/IshtishadAlamTishad/Software-Engineering), [Apartment Type Detection](https://github.com/IshtishadAlamTishad/Apartment-Type-Detection) ,[AutoDoc Hospital Management System](https://youtu.be/6YstV3XasoQ?si=I-gZWVKXuHFBsGyo) , [SafetyFirst Road System](https://www.youtube.com/watch?v=9k__11e2oLk) ,
  [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE), 
  [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
 - 👨‍💻 All of my projects are available at [Click Here](https://github.com/IshtishadAlamTishad)
