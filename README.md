@@ -6,9 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshtishadAlamTishad&label=Profile%20views&color=blueviolet&style=plastic" alt="IshtishadAlamTishad" /> </p>
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
-<h3>
-.........................................
-</h3>
+
 - 👯 My Projects -> [AutoDoc Hospital Management System](https://youtu.be/6YstV3XasoQ?si=I-gZWVKXuHFBsGyo) , [SafetyFirst Road System](https://www.youtube.com/watch?v=9k__11e2oLk) , [AI Driven Transformation of Electricity Supply](https://github.com/IshtishadAlamTishad/Software-Engineering), [Apartment Type Detection](https://github.com/IshtishadAlamTishad/Apartment-Type-Detection) ,
  [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE), 
  [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
