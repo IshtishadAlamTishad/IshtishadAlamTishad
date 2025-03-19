@@ -1,18 +1,35 @@
 
 <p align="top"> <img src="https://github.com/IshtishadAlamTishad/IshtishadAlamTishad/blob/main/Src/DP.jpg" alt="IshtishadAlamTishad" /> </p>
 <h1 align="center"> </h1>
-<h3 align="center"> A dedicated Competitive Programmer and CSE Undergraduate,specializing in Computer Vision with a focus on autonomous systems.Passionate about developing elegant and efficient software solutions that enhance lives. Proficient in C++, C#, Java, Python, R and SQL with expertise in frontend technologies such as HTML,CSS and JavaScript.A strong advocate for open-source software and an active contributor to community-driven projects.Additionally,enjoys sharing knowledge to foster learning and innovation. </h3>
+<h3 align="center"> A dedicated Competitive Programmer and CSE Undergraduate,specializing in Computer Vision with a focus on autonomous systems.Passionate about developing elegant and efficient software solutions that enhance lives. Proficient in C++, C#,Java, Python,R and SQL with expertise in frontend technologies such as HTML,CSS and JavaScript.A strong advocate for open-source software and an active contributor to community-driven projects.Additionally,enjoys sharing knowledge to foster learning and innovation. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshtishadAlamTishad&label=Profile%20views&color=blueviolet&style=plastic" alt="IshtishadAlamTishad" /> </p>
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
-- 👯 My Projects -> [Autonomous Vehicle Control](https://youtu.be/mcM9Ateer5I?si=u-QBxzwxjz_rsixu),[AutoDoc Hospital Management System](https://youtu.be/6YstV3XasoQ?si=I-gZWVKXuHFBsGyo) , [SafetyFirst Road System](https://www.youtube.com/watch?v=9k__11e2oLk) , [AI Driven Transformation of Electricity Supply](https://github.com/IshtishadAlamTishad/Software-Engineering), [Apartment Type Detection](https://github.com/IshtishadAlamTishad/Apartment-Type-Detection) ,
- [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE), 
- [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
+- 👯 My Projects ->
+  [Autonomous Vehicle Control](https://youtu.be/mcM9Ateer5I?si=u-QBxzwxjz_rsixu),
+  [Facial Recognition](https://github.com/IshtishadAlamTishad/Face-Detection),
+  [Exploratory Data Analysis with R](https://github.com/IshtishadAlamTishad/Data-Science),
+  [AutoDoc Hospital Management System](https://youtu.be/6YstV3XasoQ?si=I-gZWVKXuHFBsGyo) ,
+  [SafetyFirst Road System](https://www.youtube.com/watch?v=9k__11e2oLk) ,
+  [AI Driven Transformation of Electricity Supply](https://github.com/IshtishadAlamTishad/Software-Engineering),
+  [Apartment Type Detection](https://github.com/IshtishadAlamTishad/Apartment-Type-Detection) ,
+  [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE), 
+  [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
+  
 - 👨‍💻 All of my projects are available at [Click Here](https://github.com/IshtishadAlamTishad)
 - 🖥️ My working Operating Systems -> [Linux](Linux),[Kali-Linux](Kali-Linux),[Fedora-Linux](Fedora-Linux),[Windows](Windows),[Mac](Mac)
-- 🏅 Certificates -> [MACHINE LEARNING](https://drive.google.com/file/d/16h3EBCnmH5juZjL8fYcyU6tk0S4DMEkN/view?usp=drive_link),[IT ESSENTIALS](https://drive.google.com/file/d/1-qbO-8oO891S6kSmFWCbHBokhU0W6v6F/view?usp=sharing),[Ethical Hacking](https://drive.google.com/file/d/1EyTqrT3V348A893hEjG-OxMloCB3ygLJ/view?usp=drivesdk),[Fedora Linux](https://drive.google.com/file/d/1VOXsVBbGhWbjOuTA1hVRhEGawPIB-dkr/view?usp=drivesdk)
+- 🏅 Certificates ->
+  [Nasa Open Science](https://drive.google.com/file/d/1LYDgAIORvCFZxHznNo85LMGq5DyvJLFM/view),
+  [ICPC-23](https://drive.google.com/file/d/1n5mi262GbVIWBivFxmuPztMvSbXH3K-T/view),
+  [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/certificate/MO480ZEWJXVK),
+  [Computer Vision app with Azure cognitive services](https://www.coursera.org/account/accomplishments/verify/2J5YEHJ0JJ2A).
+  [MACHINE LEARNING](https://drive.google.com/file/d/16h3EBCnmH5juZjL8fYcyU6tk0S4DMEkN/view?usp=drive_link),
+  [IT ESSENTIALS](https://drive.google.com/file/d/1-qbO-8oO891S6kSmFWCbHBokhU0W6v6F/view?usp=sharing),
+  [Ethical Hacking](https://drive.google.com/file/d/1EyTqrT3V348A893hEjG-OxMloCB3ygLJ/view?usp=drivesdk),
+  [Fedora Linux](https://drive.google.com/file/d/1VOXsVBbGhWbjOuTA1hVRhEGawPIB-dkr/view?usp=drivesdk)
+  
 - 🏆 Honor/Award : Dean's Honor Award for excellent academic performance
 - 💬 Ask me about **tishadalam86@gmail.com**
 - 📄 Know about my experiences -> [Click Here](https://www.linkedin.com/in/tishad07/)
