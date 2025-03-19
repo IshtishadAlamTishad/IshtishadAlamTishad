@@ -1,13 +1,13 @@
 
 <p align="top"> <img src="https://github.com/IshtishadAlamTishad/IshtishadAlamTishad/blob/main/Src/DP.jpg" alt="IshtishadAlamTishad" /> </p>
 <h1 align="center"> </h1>
-<h3 align="center"> A passionate Competitive Programmer with a strong focus on building elegant and efficient software solutions that improve lives. Experienced in software development using C++, C#, Java, Python, and Oracle-MySQL, as well as frontend technologies like HTML and JavaScript. Skilled in civil/architecture design using AutoCAD, including AutoCAD 2007. A strong advocate for open-source software and an active contributor to community-driven projects. Also enjoys writing tech articles and sharing knowledge with others. </h3>
+<h3 align="center"> A dedicated Competitive Programmer and CSE Undergraduate,specializing in Computer Vision with a focus on autonomous systems.Passionate about developing elegant and efficient software solutions that enhance lives. Proficient in C++, C#, Java, Python, R and SQL with expertise in frontend technologies such as HTML,CSS and JavaScript.A strong advocate for open-source software and an active contributor to community-driven projects.Additionally,enjoys sharing knowledge to foster learning and innovation. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshtishadAlamTishad&label=Profile%20views&color=blueviolet&style=plastic" alt="IshtishadAlamTishad" /> </p>
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
-- 👯 My Projects -> [AutoDoc Hospital Management System](https://youtu.be/6YstV3XasoQ?si=I-gZWVKXuHFBsGyo) , [SafetyFirst Road System](https://www.youtube.com/watch?v=9k__11e2oLk) , [AI Driven Transformation of Electricity Supply](https://github.com/IshtishadAlamTishad/Software-Engineering), [Apartment Type Detection](https://github.com/IshtishadAlamTishad/Apartment-Type-Detection) ,
+- 👯 My Projects -> [Autonomous Vehicle Control](https://youtu.be/mcM9Ateer5I?si=u-QBxzwxjz_rsixu),[AutoDoc Hospital Management System](https://youtu.be/6YstV3XasoQ?si=I-gZWVKXuHFBsGyo) , [SafetyFirst Road System](https://www.youtube.com/watch?v=9k__11e2oLk) , [AI Driven Transformation of Electricity Supply](https://github.com/IshtishadAlamTishad/Software-Engineering), [Apartment Type Detection](https://github.com/IshtishadAlamTishad/Apartment-Type-Detection) ,
  [AUTOMATED FOOD BEVERAGE SERVICE](https://github.com/IshtishadAlamTishad/AUTOMATED-FOOD-BEVERAGE-SERVICE), 
  [Computer Business Management](https://github.com/IshtishadAlamTishad/ComputerBusiness_Management)
 - 👨‍💻 All of my projects are available at [Click Here](https://github.com/IshtishadAlamTishad)
