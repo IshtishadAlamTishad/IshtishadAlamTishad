@@ -1,7 +1,7 @@
 
 <p align="top"> <img src="https://github.com/IshtishadAlamTishad/IshtishadAlamTishad/blob/main/Src/DP.jpg" alt="IshtishadAlamTishad" /> </p>
 <h1 align="center"> </h1>
-<h3 align="center"> A dedicated Competitive Programmer and CSE Undergraduate,specializing in Computer Vision with a focus on autonomous systems.Passionate about developing elegant and efficient software solutions that enhance lives. Proficient in C++, C#,Java, Python,R and SQL with expertise in frontend technologies such as HTML,CSS and JavaScript.A strong advocate for open-source software and an active contributor to community-driven projects.Additionally,enjoys sharing knowledge to foster learning and innovation. </h3>
+<h3 align="center"> A dedicated Competitive Programmer and CSE Undergraduate,specializing in Computer Vision with a focus on autonomous systems.Passionate about developing elegant and efficient software solutions that enhance lives. Proficient in C++, C#,Java, Python,R and SQL with expertise in Web technologies such as HTML,CSS and JavaScript.A strong advocate for open-source software and an active contributor to community-driven projects.Additionally,enjoys sharing knowledge to foster learning and innovation. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshtishadAlamTishad&label=Profile%20views&color=blueviolet&style=plastic" alt="IshtishadAlamTishad" /> </p>
 
